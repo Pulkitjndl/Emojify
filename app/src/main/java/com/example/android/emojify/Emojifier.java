@@ -14,9 +14,7 @@ import com.google.android.gms.vision.face.FaceDetector;
 
 import timber.log.Timber;
 
-/**
- * Created by enrico on 2/20/18.
- */
+
 
 public class Emojifier {
     private static final String TAG = Emojifier.class.getSimpleName();
